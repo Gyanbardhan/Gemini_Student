@@ -2,6 +2,10 @@
 
 This repository contains the source code for Gemini_Student, a versatile educational application powered by the Gemini large language model. It offers five interactive components designed to enhance student learning:
 
+[Gemini_Student_Demo Video](https://drive.google.com/file/d/1M1WT-L419ML_j43dQIyABCy8Ni79NyIq/view?usp=sharing)
+
+[Gemini_Student Website](https://huggingface.co/spaces/gyanbardhan123/Gemeni_Student)
+
 ## Components:
 
 ### 1. Chatbot (chatbot.py):
